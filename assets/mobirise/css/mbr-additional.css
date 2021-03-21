@@ -628,7 +628,17 @@ section.lazy-placeholder:after {
 .cid-rKNxet4Kej {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-rKNxet4Kej .mbr-text,
+.cid-rKNxet4Kej .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rKNxet4Kej H1 {
+  color: #ffffff;
+}
+.cid-rKNxet4Kej H3 {
+  color: #ffffff;
 }
 .cid-rKX6rv0sSK {
   padding-top: 135px;
